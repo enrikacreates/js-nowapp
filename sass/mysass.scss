@@ -1,0 +1,13 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+$main-pop-color: #D6D3FF;
+
+body {
+	background-color: #D6D3FF;
+	/*color: #D8D8D8;*/
+}
+
+.vertical-text {    
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+}
